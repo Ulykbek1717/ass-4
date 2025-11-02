@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23290610/README.md)
 Assignment 4 — SCC, Topological Ordering, DAG Shortest/Longest Paths
 1. Purpose
    This project implements the full pipeline required by the “Smart City / Smart Campus Scheduling” assignment:
