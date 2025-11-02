@@ -150,6 +150,9 @@ within the DAG, which is expected for single-source shortest-path algorithms.
 
 
 6. Conclusions
+
+   
+
    Run SCC first, then condensation + topo + DAG-SP.
    Condensation drastically reduces DAG size when cycles exist.
    DAG-SP efficiently computes both shortest and longest (critical) paths.
